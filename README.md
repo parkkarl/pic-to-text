@@ -34,7 +34,7 @@ dotnet build -c Release
 dotnet publish src/PicToText/PicToText.csproj -c Release -r win-x64 --self-contained true
 ```
 
-The executable is created under `src/PicToText/bin/Release/net8.0-windows10.0.19041.0/win-x64/publish/`.
+The executable is created under `src/PicToText/bin/Release/net8.0-windows10.0.26100.0/win-x64/publish/`.
 
 ## Privacy
 
